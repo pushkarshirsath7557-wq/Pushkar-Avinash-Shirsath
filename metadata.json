@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra on a Plate",
+  "description": "Every District Has a Taste. An editorial culinary archive documenting the regional food traditions, native recipes, and distinct culinary culture of all 36 districts of Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
